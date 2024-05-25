@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite --port 3000",
     "build": "vite build",
-    "start": "serve dist",
+    "start": "serve -s dist",
     "preview": "vite preview"
   },
   "dependencies": {
